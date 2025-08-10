@@ -1,0 +1,57 @@
+{
+  "pagination": {
+    "startIndex": 0,
+    "nextIndex": 1,
+    "pageSize": 0,
+    "total": 1,
+    "hasMore": false
+  },
+  "items": [
+    {
+      "updatedBy": "sunilselva3335@gmail.com",
+      "netPayable": {
+        "unit": "inr",
+        "value": 100
+      },
+      "splits": [
+        {
+          "id": "sunilselva3335@gmail.com",
+          "percent": 60,
+          "value": {
+            "unit": "inr",
+            "value": 60
+          }
+        },
+        {
+          "id": "sunil.codeio@gmail.com",
+          "percent": 40,
+          "value": {
+            "unit": "inr",
+            "value": 40
+          }
+        }
+      ],
+      "paidBy": "sunil.codeio@gmail.com",
+      "groupId": "9ee92b9f-9160-4c87-a446-175d6c833242",
+      "active": true,
+      "splitType": "percentage",
+      "transactionId": "4aa1fff1-7c92-48cc-8c6d-4562bba2d539",
+      "createdAt": "2025-08-10T16:31:02.331951",
+      "deletedAt": null,
+      "deleted": false,
+      "outstandingSummary": [
+        {
+          "from": "sunilselva3335@gmail.com",
+          "to": "sunil.codeio@gmail.com",
+          "grossPayable": {
+            "unit": "inr",
+            "value": 60
+          }
+        }
+      ],
+      "lastUpdatedOn": "2025-08-10T16:31:02.331972",
+      "_id": "8a5962d7-42ce-4eb2-9549-6acd0e74e484",
+      "category": "snacks"
+    }
+  ]
+}
